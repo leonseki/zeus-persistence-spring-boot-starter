@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  jp.tokyo.leon.zeus.persistence.spring.boot.starter.config.ZeusPersistenceAutoConfiguration
